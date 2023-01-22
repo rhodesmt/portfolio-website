@@ -58,10 +58,10 @@ function About() {
   return (
     <Layout>
       <Helmet>
-        <title>About - Chester React Personal Portfolio Template</title>
+        <title>About - Matthew Rhodes Portfolio Website</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template About Page"
+          content="Matthew Rhodes Portfolio Website"
         />
       </Helmet>
       <Suspense fallback={<Spinner />}>
