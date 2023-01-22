@@ -4,7 +4,7 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Matthew Rhodes',
-    aboutContent: "I am a software developer and I'm having a great time learning JavaScript, React, and Ruby among others after switching gears from 3 years in the Medical Field. I previously served 5 years in the submarine force which was the ultimately lesson in dealing with stressful situations. I am looking forward to beginning my career as a software developer with an exciting and innovative company.",
+    aboutContent: "As a Navy Submarine Sonar Technician veteran, I bring a unique combination of technical skills and discipline to my transition into a career in software development. My time in the Navy honed my ability to work under pressure and think critically, while my experience as a sonar technician gave me a strong foundation in electronics and troubleshooting. I am now excited to apply these skills to software development, where I am eager to learn new technologies and techniques to create innovative and efficient solutions. I am confident that my background in the Navy and my passion for technology make me a valuable asset to any team.",
     age: 30,
     phone: '',
     nationality: 'American',
@@ -54,18 +54,18 @@ const database = {
     },
     {
       id: 2,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
+      content: "",
       author: {
-        name: 'Susan Yost',
-        designation: 'Client'
+        name: '',
+        designation: ''
       }
     },
     {
       id: 3,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      content: "",
       author: {
-        name: 'Irving Feeney',
-        designation: 'Fiverr Client'
+        name: '',
+        designation: ''
       }
     }
   ],
@@ -121,19 +121,26 @@ const database = {
       {
         id: 1,
         year: "2022 - Present",
+        position: "Software Developer Intern",
+        company: "Victorise",
+        details: "Developed, tested and implemented features for web and mobile apps in an Agile environment, utilizing daily SCRUM meetings. Mastered AngularJS, PHP, React Native and NoSQL, specifically MongoDB, and currently learning Python3. Effectively increased the speed, accuracy, and scalability of web and mobile application databases, and improved customer and user experience."
+      },
+      {
+        id: 2,
+        year: "2022 - 2023",
         position: "Full-Stack Developer Student",
         company: "LEARN Academy",
         details: "Completed 480+ hours of direct coding experience in an intensive full stack software development bootcamp. Gained proficiency in building JavaScript, Ruby, and React applications with UI/UX. Practiced test-driven development to produce full-stack Ruby on Rails applications with associated databases."
       },
       {
-        id: 2,
+        id: 3,
         year: "2021 - 2022",
         position: "B2B Support Specialist",
         company: "Carbon Health Technologies, Inc.",
         details: "Engaged in B2B communications and customer relationship management provided support and tracking for COVID-19 cases for partnered employers. Operated in accordance with Federal and State HIPAA and PII Compliance laws and regulations."
       },
       {
-        id: 3,
+        id: 4,
         year: "2013 - 2018",
         position: "Submarine Sonar Technician, Third Class",
         company: "US Navy",
