@@ -30,7 +30,7 @@ const database = {
     {
       title: "UI/UX Design",
       icon: 'react', 
-      details: "React, Rails, Ruby on Rails, React in Rails"
+      details: "Experience in UI/UX design with technologies such as React, React in Rails and HTML5/CSS, including designing and implementing responsive and user-centered interfaces, prototyping and testing with users, and optimizing for accessibility and performance."
     },
     {
       title: "Software Development",
@@ -40,16 +40,16 @@ const database = {
     {
       title: "Database Management",
       icon: 'database',
-      details: "Experience in test-driven development to produce full-stack Ruby on Rails applications with associated databases"
+      details: "Experience with both relational and non-relational databases, including designing and implementing databases, optimizing performance, troubleshooting and resolving issues, and data migration."
     }
   ],
   reviews: [
     {
       id: 1,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam, aliquid maxime tempora.",
+      content: "I’ve had the pleasure of working with Matthew on multiple projects. He is incredibly patient and thorough with problem-solving, and has never shied away from a challenge in our time together. On top of that, his creative writing skills are absolutely phenomenal - he can take even the most mundane concept and turn it into something truly new and exciting. His upbeat personality makes him incredibly easy and fun to work with, and I would happily take on another project with him in the future!",
       author: {
-        name: 'Burdette Turner',
-        designation: 'Web Developer, Abc Company'
+        name: 'Ari Brashear',
+        designation: 'Full Stack Developer, XplorSTEM'
       }
     },
     {
