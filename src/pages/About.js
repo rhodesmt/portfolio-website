@@ -98,7 +98,7 @@ function About() {
                     I am <span className="color-theme">{information.name}</span>
                   </h3>
                   <p>
-                  I am a software developer and I discovered a passion for coding and complex problem-solving after transitioning from 3 years in the Medical Field. I previously served 5 years in the submarine force which was a perfect lesson in learning to handle and navigate stressful situations. I am looking forward to beginning my career as a software developer with an exciting and innovative company.
+                  As a Navy Submarine Sonar Technician veteran, I bring a unique combination of technical skills and discipline to my transition into a career in software development. My time in the Navy honed my ability to work under pressure and think critically, while my experience as a sonar technician gave me a strong foundation in electronics and troubleshooting. I am now excited to apply these skills to software development, where I am eager to learn new technologies and techniques to create innovative and efficient solutions. I am confident that my background in the Navy and my passion for technology make me a valuable asset to any team.
                   </p>
                   <ul>
                     {!information.name ? null : (
