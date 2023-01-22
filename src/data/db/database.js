@@ -144,7 +144,7 @@ const database = {
         year: "2013 - 2018",
         position: "Submarine Sonar Technician, Third Class",
         company: "US Navy",
-        details: "Implemented and successfully coordinated over 10,000 worker hours of QA level maintenance to ensure no interruption of the submarine’s scheduled operations. Subject Matter Expert for the Sonar System including system architecture and security, server maintenance, and virus scans necessary for successful operation."
+        details: "Commissioning crew member of the USS Illinois, responsible for the installation, operation, and maintenance of advanced sonar systems and equipment. Assisted in the development and implementation of new procedures and protocols for the operation and maintenance of sonar systems. Demonstrated a high level of technical expertise and attention to detail, resulting in the successful commissioning of the USS Illinois and its subsequent deployment."
       }
     ],
     educationExperience: [
