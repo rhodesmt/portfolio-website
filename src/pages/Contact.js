@@ -71,10 +71,10 @@ function Contact() {
   return (
     <Layout>
       <Helmet>
-        <title>Contact - Chester React Personal Portfolio Template</title>
+        <title>Contact - Matthew Rhodes Portfolio Website</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template Contact Page"
+          content="Matthew Rhodes Portfolio Website"
         />
       </Helmet>
       <Suspense fallback={<Spinner />}>
