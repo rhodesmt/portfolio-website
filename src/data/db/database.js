@@ -98,22 +98,19 @@ const database = {
   portfolios: [
     {
       id: 1,
-      title: "Pets After Covid",
-      subtitle: "This is my first fullstack application created with fellow developer Ari Brashear! The idea behind the application is to help connect animals who were adopted during the pandemic the opportunity to connect and play with other animals in your area. Due to the pandemic, many animals weren't afforded the opportunity to socialize, so we thought this would be a fun way to help the transition for the animal, as well as help the owner make friends! Check out the GitHub link to see the project progress! ",
-      imageUrl: "",
-      largeImageUrl: [""],
-      url: 'https://github.com/learn-academy-2022-foxtrot/cat-tinder-frontend-pets-after-covid'
+      title: "The Gamer Lounge",
+      subtitle: "A Full Stack application built by gamers, for gamers. ",
+      imageUrl: '/images/gamer-lounge.png',
+      largeImageUrl: ["/images/gamer-lounge.png"],
+      url: 'https://github.com/rhodesmt/gamer-lounge-app'
     },
     {
       id: 2,
-      title: "Tic-Tac-Toe",
-      subtitle: "This is a web game for two players on one device, taking turns. ",
-      imageUrl: "",
-      largeImageUrl: [
-        "",
-        ""
-      ],
-      url: 'https://github.com/learn-academy-2022-foxtrot/tic-tac-toe-matthew-and-heath'
+      title: "Wildlife Tracker",
+      subtitle: "This is wildlife tracking application that will display animal species information and migratory movements and patterns. My goal is to incorporate an API that will allow the data to be updated automatically and ideally in real time.",
+      imageUrl: "/images/wildlife-tracker.jpg",
+      largeImageUrl: ["/images/wildlife-tracker.jpg"],
+      url: 'https://github.com/rhodesmt/wildlife-tracker-rhodesmt'
     }
   ],
   experience: {
